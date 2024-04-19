@@ -1,0 +1,3 @@
+[submodule "mimic3-data-model"]
+	path = mimic3-data-model
+	url = https://github.com/ElucidataInc/mimic3-data-model
